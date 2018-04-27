@@ -1,0 +1,58 @@
+{
+	"Spells": [
+                {
+                        "name": "Confringo",
+                        "frequency": "10",
+                        "power": "50",
+                        "id" : 1
+                },
+                {
+                        "name": "Aguamenti",
+                        "frequency": "10",
+                        "power": "40",
+                        "id" : 2
+                },
+                {
+                        "name": "Crucio",
+                        "frequency": "3",
+                        "power": "300",
+                        "id" : 3
+                },
+		{
+			"name": "Sectum Sempra",
+			"frequency": "3",
+			"power": "500",
+                        "id" : 4
+		},
+		{
+			"name": "Avada Kedavra",
+			"frequency": "1",
+			"power": "1000",
+                        "id" : 5
+		},
+                {
+                        "name": "Oppugno",
+                        "frequency": "10",
+                        "power": "50",
+                        "id" : 6
+                },
+                {
+                        "name": "Tarantallegra",
+                        "frequency": "10",
+                        "power": "50",
+                        "id" : 7
+                },
+                {
+                        "name": "Stupify",
+                        "frequency": "10",
+                        "power": "25",
+                        "id" : 8
+                },
+                {
+                        "name": "Imperio",
+                        "frequency": "3",
+                        "power": "200",
+                        "id" : 9
+                }
+	]
+}
