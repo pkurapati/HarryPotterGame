@@ -1,3 +1,4 @@
+# A fun game for Satwik
 class Duel:
     def __init__(self,wizard1,wizard2):
         """ Get the initial spell list"""
